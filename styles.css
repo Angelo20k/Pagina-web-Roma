@@ -83,8 +83,8 @@ body {
     justify-content: center;
     align-items: flex-start;
     position: sticky;
-    top: 20px; /* Ajusta este valor según sea necesario */
-    height: calc(100vh - 140px); /* Ajuste para que la imagen se mantenga visible */
+    top: 20px; 
+    height: calc(100vh - 140px);
 }
 
 .image img {
